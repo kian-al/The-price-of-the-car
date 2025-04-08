@@ -19,8 +19,6 @@ This repository contains Python scripts to scrape car pricing data from the *Ham
   - `beautifulsoup4`
   - `pandas`
   - `scikit-learn`
-  - (Install using `pip install -r requirements.txt` if you create one)
-
 ## 🚀 How to Use
 
 1. **Scrape the Data:**
